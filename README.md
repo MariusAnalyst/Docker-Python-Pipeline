@@ -27,7 +27,7 @@ success? open the virtual environment and you will see the following files
 uv venv
 .venv\Scripts\activate
 
-# find inmportand links on how to use the `uv` package
+## find inmportand links on how to use the `uv` package
 
 [Main uv Documentation](https://docs.astral.sh/uv/)
 
