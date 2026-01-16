@@ -21,7 +21,7 @@ check if the package is installed uv --version
 using uv to create the virtual environment and install python 3.13 uv init --python 3.13
 success? open the virtual environment and you will see the following files
 
-![pipeline virtual environment](image-1.png)
+![pipeline virtual environment](image.png)
 
 # creating the virtual environment 
 uv venv
@@ -29,5 +29,5 @@ uv venv
 
 # find inmportand links on how to use the `uv` package
 
-[Main uv Documentation]](https://docs.astral.sh/uv/)
+[Main uv Documentation](https://docs.astral.sh/uv/)
 
