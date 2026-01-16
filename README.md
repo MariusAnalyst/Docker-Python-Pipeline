@@ -14,7 +14,7 @@ Docker is a containerization platform that packages your application and its dep
 install the `uv` package in the global environment
 ```cmd 
 pip install uv
-
+```
 
 check if the package is installed uv --version
 
@@ -26,3 +26,8 @@ success? open the virtual environment and you will see the following files
 # creating the virtual environment 
 uv venv
 .venv\Scripts\activate
+
+# find inmportand links on how to use the `uv` package
+
+[Main uv Documentation]](https://docs.astral.sh/uv/)
+
